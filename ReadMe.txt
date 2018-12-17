@@ -16,13 +16,13 @@ with only one restriction, all the files listed below (which includes this
 one) must be included and must be unmodified.
 
 Any comments, good or bad, should be addressed to me (Nick Matthews),
-preferably by email. I am always pleased to hear from anyone using ly
+preferably by email. I am always pleased to hear from anyone using my
 software.
 
 Packing list:
 
   PHCOMP.EXE   PC Program to create *.rss format files. Version D1.10
-  PHCOMP.TXT   Program and input file specifiction.
+  PHCOMP.TXT   Program and input file specification.
   EXAMPLE.RHT  Example input file.
   EXAMPLE.PAG  Example of page only input file.
   README.TXT   This file.
@@ -30,14 +30,4 @@ Packing list:
 Program written by:
 
     Nick Matthews
-
-    KizzyCo
-    Kizzy Cottage
-    74 High Street
-    Ardingly
-    West Sussex RH17 6TD
-    England
-
-    Tel: +44 (0)1444 892560
-    email: nickmat@cix.compulink.co.uk
-
+    
